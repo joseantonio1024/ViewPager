@@ -35,4 +35,9 @@ public class MainActivity extends AppCompatActivity {
         int i=0;
         i--;
     }
+
+    private void times(){
+        int i=1;
+        i=i*i;
+    }
 }
