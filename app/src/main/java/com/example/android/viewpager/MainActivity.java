@@ -31,4 +31,8 @@ public class MainActivity extends AppCompatActivity {
         // sigo sin hacer nada.
         // y sigo.
     }
+
+    private void otroMetodoQueNoHaceNada(){
+        // lo dicho.
+    }
 }
