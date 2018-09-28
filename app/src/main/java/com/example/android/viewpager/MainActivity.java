@@ -26,5 +26,8 @@ public class MainActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
     }
 
-
+    private void suma(){
+        int i = 0;
+        i++;
+    }
 }
