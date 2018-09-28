@@ -30,4 +30,9 @@ public class MainActivity extends AppCompatActivity {
         int i = 0;
         i++;
     }
+
+    private void resta(){
+        int i=0;
+        i--;
+    }
 }
