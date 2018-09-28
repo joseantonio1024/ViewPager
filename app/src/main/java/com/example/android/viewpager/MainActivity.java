@@ -26,13 +26,4 @@ public class MainActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
     }
 
-    private void unMetodoQueNoHaceNada(){
-        // No hago nada.
-        // sigo sin hacer nada.
-        // y sigo.
-    }
-
-    private void otroMetodoQueNoHaceNada(){
-        // lo dicho.
-    }
 }
